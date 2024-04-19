@@ -18,8 +18,6 @@ This project is a comprehensive Employee Management System (EMS) built using Spr
   - [Check the Code](#check-the-code)
   - [Dependencies](#dependencies)
   - [Annotations](#annotations)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## How to Use
 
